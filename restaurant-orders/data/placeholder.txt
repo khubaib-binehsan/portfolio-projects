@@ -1,0 +1,4 @@
+directory for the csv files:
+- order_details
+- menu_items
+- orders_cleaned

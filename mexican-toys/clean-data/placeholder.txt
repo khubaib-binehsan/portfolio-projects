@@ -1,0 +1,4 @@
+directory for csv files:
+- combined_data
+- three_months_trend
+- four_weeks_trend

@@ -1,0 +1,4 @@
+directory for csv files:
+- wine_tasting_clean
+- wine_top_results
+- words

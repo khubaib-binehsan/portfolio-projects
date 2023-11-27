@@ -1,0 +1,8 @@
+directory for csv files:
+- churned
+- combined
+- journeys
+- MRR
+- plans
+- subscribed
+- subscriptions

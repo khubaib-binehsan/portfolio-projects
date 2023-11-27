@@ -1,0 +1,5 @@
+directoy for csv files:
+- products
+- sales
+- stores
+- inventory

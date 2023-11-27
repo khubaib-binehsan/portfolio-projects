@@ -1,0 +1,4 @@
+directory for the csv files:
+- flights
+- cancellation_codes
+- airports
